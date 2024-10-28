@@ -15,18 +15,11 @@ This FastAPI application converts each page of an uploaded PDF into individual P
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/verma29897/Pdf_to_image_convert.git
+    cd Pdf_to_image_convert
     ```
 
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
-    ```
-
-   Make sure `requirements.txt` includes:
-   ```plaintext
-   fastapi
-   uvicorn
-   pymupdf
-   pillow
+2. run main.py
